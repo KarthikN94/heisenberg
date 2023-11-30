@@ -33,5 +33,17 @@ public class MCU {
 	private void rocket() {
 		System.out.println("Fox");
 	}
+	
+	private void giah() {
+		System.out.println("Skrull");
+	}
+	
+	private void andrewGarfield() {
+		System.out.println("The Amazing Spiderman");
+	}
+	
+	private void emmaStone() {
+		System.out.println("Amazing spiderman lover");
+	}
 
 }
