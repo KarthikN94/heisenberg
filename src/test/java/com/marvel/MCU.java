@@ -33,5 +33,12 @@ public class MCU {
 	private void rocket() {
 		System.out.println("Fox");
 	}
+	
+	private void Spiderman() {
+		System.out.println("Organic web");
+	}
+	
+	private void venom() {
+		System.out.println("parasitic inheritance");
 
 }
